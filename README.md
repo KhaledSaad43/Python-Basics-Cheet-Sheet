@@ -2,6 +2,7 @@
 Python Basics for Beginners Take a look at the fundamentals of the language
 
 main concept in Cheet_Sheet:
+
 1- Variable
 2- Data Type
 3- Type casting
